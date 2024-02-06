@@ -1,16 +1,11 @@
-### Hi there 👋
+<div align="center">
+  Computer Science Student. Backend software developer. Databases, DevOps.
+  
+  My personal website: https://markski.ar
 
-<!--
-**markski1/markski1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://komarev.com/ghpvc/?username=markski1&style=flat-square&color=blue" alt=""/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markski1&theme=vue-dark&hide_border=true">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markski1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+</div>
