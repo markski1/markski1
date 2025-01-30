@@ -5,8 +5,6 @@
   
   Personal website: https://markski.ar
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markski1&theme=vue-dark&hide_border=true">
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markski1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=html,css,pawn">
   <br>
   <img src="https://komarev.com/ghpvc/?username=markski1&style=flat-square&color=blue" alt=""/>
